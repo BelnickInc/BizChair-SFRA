@@ -66,3 +66,5 @@ Here is a list of the content assets used from the shared content library.
 | ref-arch-shipping-no-coupon-promotion-1            | 740357447164        |            | Ref Arch No Coupon Test |
 | ref-arch-order-approaching-discount-promotion-1    | 799927767720        |            | Ref Arch No Coupon Test |
 | ref-arch-shipping-approaching-discount-promotion-1 | 799927767720        |            | Ref Arch No Coupon Test |
+
+
